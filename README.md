@@ -2,7 +2,7 @@
 
 # My notes: How to start the app
 
-1 - Place ```us-census.db``` SQLite file into ```db/ folder```. It was gitignored due to its size exceeding git allowed storage.<br />
+1 - Place ```us-census.db``` SQLite file into ```db/``` folder. It was gitignored due to its size exceeding git allowed storage.<br />
 2 - In the root directory, run ```npm run dev``` to start backend.<br />
 3 - In the client/ directory, run ```npm run dev``` to start backend.<br />
 4 - Hire me ! 😇<br />
