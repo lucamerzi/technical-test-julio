@@ -1,4 +1,4 @@
-# Kamet technical test
+# Technical test
 
 # My notes: How to start the app
 
